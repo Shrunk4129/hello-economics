@@ -1,6 +1,5 @@
 import random
 from glob import glob
-import shutil
 import frontmatter
 import random
 
